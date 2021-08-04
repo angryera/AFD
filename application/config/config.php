@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://192.168.104.104/AFD/index.php';
+$config['base_url'] = 'https://afdocuments.herokuapp.com/index.php';
 
 /*
 |--------------------------------------------------------------------------
